@@ -21,6 +21,7 @@
 #ifndef hd8574b83_b264_47b2_8d33_a46ae75691d2
 #define hd8574b83_b264_47b2_8d33_a46ae75691d2
 
+#include <cups/ppd.h>
 #include <cups/cups.h>
 #include <cups/raster.h>
 #include "LabelWriterDriver.h"
